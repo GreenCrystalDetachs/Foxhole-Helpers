@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=400&size=58&pause=450&color=8B8B00&center=true&vCenter=true&width=1200&height=140&lines=FOXHOLE+HACK+2026;ESP+%7C+LOGISTICS+%7C+RADAR;DOMINATE+THE+WAR" alt="Foxhole Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39c25d3b-c7e6-40e7-9976-7643ddc10455" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d26dc57b-46f6-4b70-99c3-0b49f0d3810c" />
 
 <br/>
 
